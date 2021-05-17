@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QuynhTran182003
-- 👀 I’m interested in Java, making app on iOs
+- 👀 I’m interested in Java, making apps for iOs
 - 🌱 I’m currently learning Java and languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: via email quynhtran182003@gmail.com
